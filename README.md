@@ -8,18 +8,18 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 # PRR - WireMaze - Pack 20
 
-- Data de criação: 30/12/2025
+- Data do relatório: 30/12/2025
 - Propriedade: PRR - WireMaze - Pack 20
 - Candidatura: Ouro
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do PRR - WireMaze - Pack 20](23022026_report_012.html)
+Consulte aqui a última atualização: [Relatório do PRR - WireMaze - Pack 20](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="30122025_report_012.html">(30/12/2025). Relatório do PRR - WireMaze - Pack 20 </a></li>
+    <li><a href="30122025_report.html">(30/12/2025). Relatório do PRR - WireMaze - Pack 20</a></li>
   </ul>
 </details>
 
