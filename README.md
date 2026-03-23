@@ -6,19 +6,20 @@ owner: "Câmara Municipal de Bragança"         # Entre as aspas escrever o nome
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# PRR - WireMaze - Pack 20
+# {{ page.website }}
 
-- Data de criação: 30/12/2025
-- Propriedade: PRR - WireMaze - Pack 20
-- Candidatura: Ouro
+- Data de criação: {{ page.date }}
+- URL: {{ page.uri }}
+- Propriedade: {{ page.owner }}
+- Candidatura: {{ page.seal }}
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do PRR - WireMaze - Pack 20](report.html)
+Consulte aqui a última atualização: [Relatório do {{ page.website }}](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="25022026_report.html">(25/02/2026). Relatório do PRR - WireMaze - Pack 20</a></li>
+    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
   </ul>
 </details>
